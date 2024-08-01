@@ -2,7 +2,7 @@
 
 A simple and interactive Weather Widget built with ReactJS that provides real-time weather updates for any location. This project utilizes key concepts such as useStates and async/await functions to fetch data from the Weather API. The widget is designed with Material UI for an enhanced user experience, making it ideal for users who want quick access to weather information without navigating to a separate website.
 
-![Weather Widget Screenshot](src\assets\weather-project.jpg)
+![Alt text](src\assets\weather-project.jpg)
 
 ## Installation
 
