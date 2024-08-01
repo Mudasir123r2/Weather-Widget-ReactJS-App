@@ -1,0 +1,24 @@
+.SearchBox {
+    text-align: center;
+  }
+  
+  .SearchIcon {
+    margin-left: 5px;
+  }
+  
+  .Alert {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 65px;
+    width: 100%;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 7px;
+    border: 1px solid rgb(205, 22, 22);
+    border-radius: 10px !important;
+  }
+
+.alertTitle {
+    padding-right: 160px;
+  }  
